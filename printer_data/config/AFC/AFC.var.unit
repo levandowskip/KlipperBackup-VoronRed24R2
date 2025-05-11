@@ -12,7 +12,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": false,
-            "loaded_to_hub": false,
+            "loaded_to_hub": true,
             "material": null,
             "spool_id": null,
             "color": null,
@@ -21,7 +21,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded"
+            "status": null
         },
         "lane2": {
             "name": "lane2",
@@ -35,7 +35,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": false,
-            "loaded_to_hub": false,
+            "loaded_to_hub": true,
             "material": null,
             "spool_id": null,
             "color": null,
@@ -44,7 +44,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded"
+            "status": null
         },
         "lane3": {
             "name": "lane3",
@@ -58,7 +58,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": false,
-            "loaded_to_hub": false,
+            "loaded_to_hub": true,
             "material": null,
             "spool_id": null,
             "color": null,
@@ -67,7 +67,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded"
+            "status": null
         },
         "lane4": {
             "name": "lane4",
@@ -81,7 +81,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": false,
-            "loaded_to_hub": false,
+            "loaded_to_hub": true,
             "material": null,
             "spool_id": null,
             "color": null,
@@ -90,7 +90,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded"
+            "status": null
         }
     },
     "system": {
