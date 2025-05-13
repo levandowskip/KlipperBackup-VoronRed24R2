@@ -84,7 +84,7 @@
             "loaded_to_hub": true,
             "material": null,
             "spool_id": "",
-            "color": "",
+            "color": "#E66100",
             "weight": "",
             "extruder_temp": null,
             "runout_lane": "NONE",
